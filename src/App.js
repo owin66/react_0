@@ -10,6 +10,7 @@ function App() {
     return (
         <div>
             <ul>{arr1}</ul>
+            <ol>{arr1}</ol>
         </div>
     )
 }
